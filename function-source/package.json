@@ -1,0 +1,8 @@
+{
+  "name": "sendMessage",
+  "version": "0.0.1",
+    "dependencies": {
+    "nodemailer": "^6.3.0",
+    "cors": "^2.8.5"
+  }
+}
